@@ -1,4 +1,4 @@
-# Arknights Planer
+# Arknights Planner
 
 https://pedrom21.github.io/arknights-planner/
 
