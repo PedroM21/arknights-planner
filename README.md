@@ -1,8 +1,7 @@
-# React + Vite
+# Arknights Planer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://pedrom21.github.io/arknights-planner/
 
-Currently, two official plugins are available:
+I am still new to react and working with apis so I created this planner to help me better understand these topics better. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+There may be future updates to add missing images for certain operators, and minor changes to the planner page.
