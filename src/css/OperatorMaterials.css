@@ -1,0 +1,41 @@
+.operator-materials-card {
+  display: flex;
+  flex-direction: column;
+  background-color: #202020;
+  margin: 4rem 22rem;
+  border-radius: 2rem;
+}
+
+.operator-materials-card h1 {
+  border-bottom: white 2px solid;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin: 1rem;
+}
+
+.operator-costs-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 600px;
+  margin-bottom: 1rem;
+}
+
+.operator-costs-content ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.operator-costs-content li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 25%;
+  border-bottom: rgb(204, 204, 204, 0.4) solid 1px;
+}

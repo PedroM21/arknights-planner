@@ -1,0 +1,15 @@
+.nav-btns {
+  display: flex;
+  justify-content: space-between;
+  background-color: #202020;
+}
+
+.nav-btns button {
+  background-color: #8e484b;
+  margin: 1rem 1rem 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.nav-btns button:hover {
+  background-color: #6b2f32;
+}

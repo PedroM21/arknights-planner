@@ -1,0 +1,57 @@
+.operator-info-card {
+  display: flex;
+  flex-direction: column;
+  background-color: #202020;
+  margin: 4rem 22rem;
+  border-radius: 2rem;
+}
+
+.operator-info-card h1 {
+  border-bottom: white 2px solid;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin: 1rem;
+}
+
+.operator-info-content {
+  display: flex;
+  background-color: #202020;
+  border-radius: 2rem;
+}
+
+.operator-info-left,
+.operator-info-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+  padding: 2rem;
+  font-size: 1rem;
+  gap: 10px 10px;
+}
+
+.hr-style {
+  opacity: 25%;
+  width: 100%;
+  border: 0.5px solid #ccc;
+}
+
+.name-info,
+.affiliation-info,
+.class-info,
+.rarity-info,
+.dob-info,
+.height-info,
+.race-info,
+.gender-info,
+.va-info,
+.artist-info {
+  display: flex;
+  align-items: center;
+  column-gap: 150px;
+}
+
+.title {
+  padding: 0 0.5rem;
+  max-width: 30px;
+}

@@ -1,0 +1,1158 @@
+{
+  "Amiya": {
+    "default": "/images/Amiya_default.png",
+    "e1": "/images/Amiya_e1.png",
+    "e2": "/images/Amiya_e2.png"
+  },
+  "Ines": {
+    "default": "/images/Ines_default.png",
+    "e2": "/images/Ines_e2.png"
+  },
+  "Kal'tsit": {
+    "default": "/images/Kal'tsit_default.png",
+    "e2": "/images/Kal'tsit_e2.png"
+  },
+  "Aak": {
+    "default": "/images/Aak_default.png",
+    "e2": "/images/Aak_e2.png"
+  },
+  "Absinthe": {
+    "default": "/images/Absinthe_default.png",
+    "e2": "/images/Absinthe_e2.png"
+  },
+  "Aciddrop": {
+    "default": "/images/Aciddrop_default.png",
+    "e2": "/images/Aciddrop_e2.png"
+  },
+  "Akafuyu": {
+    "default": "/images/Akafuyu_default.png",
+    "e2": "/images/Akafuyu_e2.png"
+  },
+  "Almond": {
+    "default": "/images/Almond_default.png",
+    "e2": "/images/Almond_e2.png"
+  },
+  "Ambriel": {
+    "default": "/images/Ambriel_default.png",
+    "e2": "/images/Ambriel_e2.png"
+  },
+  "Andreana": {
+    "default": "/images/Andreana_default.png",
+    "e2": "/images/Andreana_e2.png"
+  },
+  "Angelina": {
+    "default": "/images/Angelina_default.png",
+    "e2": "/images/Angelina_e2.png"
+  },
+  "Aosta": {
+    "default": "/images/Aosta_default.png",
+    "e2": "/images/Aosta_e2.png"
+  },
+  "April": {
+    "default": "/images/April_default.png",
+    "e2": "/images/April_e2.png"
+  },
+  "Archetto": {
+    "default": "/images/Archetto_default.png",
+    "e2": "/images/Archetto_e2.png"
+  },
+  "Arene": {
+    "default": "/images/Arene_default.png",
+    "e2": "/images/Arene_e2.png"
+  },
+  "Asbestos": {
+    "default": "/images/Asbestos_default.png",
+    "e2": "/images/Asbestos_e2.png"
+  },
+  "Ash": {
+    "default": "/images/Ash_default.png",
+    "e2": "/images/Ash_e2.png"
+  },
+  "Ashlock": {
+    "default": "/images/Ashlock_default.png",
+    "e2": "/images/Ashlock_e2.png"
+  },
+  "Astesia": {
+    "default": "/images/Astesia_default.png",
+    "e2": "/images/Astesia_e2.png"
+  },
+  "Astgenne": {
+    "default": "/images/Astgenne_default.png",
+    "e2": "/images/Astgenne_e2.png"
+  },
+  "Aurora": {
+    "default": "/images/Aurora_default.png",
+    "e2": "/images/Aurora_e2.png"
+  },
+  "Ayerscarpe": {
+    "default": "/images/Ayerscarpe_default.png",
+    "e2": "/images/Ayerscarpe_e2.png"
+  },
+  "Bagpipe": {
+    "default": "/images/Bagpipe_default.png",
+    "e2": "/images/Bagpipe_e2.png"
+  },
+  "Beagle": {
+    "default": "/images/Beagle_default.png",
+    "e2": "/images/Beagle_e2.png"
+  },
+  "Beanstalk": {
+    "default": "/images/Beanstalk_default.png",
+    "e2": "/images/Beanstalk_e2.png"
+  },
+  "Beehunter": {
+    "default": "/images/Beehunter_default.png",
+    "e2": "/images/Beehunter_e2.png"
+  },
+  "Beeswax": {
+    "default": "/images/Beeswax_default.png",
+    "e2": "/images/Beeswax_e2.png"
+  },
+  "Bena": {
+    "default": "/images/Bena_default.png",
+    "e2": "/images/Bena_e2.png"
+  },
+  "Bibeak": {
+    "default": "/images/Bibeak_default.png",
+    "e2": "/images/Bibeak_e2.png"
+  },
+  "Bison": {
+    "default": "/images/Bison_default.png",
+    "e2": "/images/Bison_e2.png"
+  },
+  "Blacknight": {
+    "default": "/images/Blacknight_default.png",
+    "e2": "/images/Blacknight_e2.png"
+  },
+  "Blaze": {
+    "default": "/images/Blaze_default.png",
+    "e2": "/images/Blaze_e2.png"
+  },
+  "Blemishine": {
+    "default": "/images/Blemishine_default.png",
+    "e2": "/images/Blemishine_e2.png"
+  },
+  "Blitz": {
+    "default": "/images/Blitz_default.png",
+    "e2": "/images/Blitz_e2.png"
+  },
+  "Blue Poison": {
+    "default": "/images/Blue_Poison_default.png",
+    "e2": "/images/Blue_Poison_e2.png"
+  },
+  "Breeze": {
+    "default": "/images/Breeze_default.png",
+    "e2": "/images/Breeze_e2.png"
+  },
+  "Broca": {
+    "default": "/images/Broca_default.png",
+    "e2": "/images/Broca_e2.png"
+  },
+  "Bryophyta": {
+    "default": "/images/Bryophyta_default.png",
+    "e2": "/images/Bryophyta_e2.png"
+  },
+  "Bubble": {
+    "default": "/images/Bubble_default.png",
+    "e2": "/images/Bubble_e2.png"
+  },
+  "Cantabile": {
+    "default": "/images/Cantabile_default.png",
+    "e2": "/images/Cantabile_e2.png"
+  },
+  "Cardigan": {
+    "default": "/images/Cardigan_default.png"
+  },
+  "Carnelian": {
+    "default": "/images/Carnelian_default.png",
+    "e2": "/images/Carnelian_e2.png"
+  },
+  "Castle-3": {
+    "default": "/images/Castle-3_default.png"
+  },
+  "Catapult": {
+    "default": "/images/Catapult_default.png"
+  },
+  "Cement": {
+    "default": "/images/Cement_default.png",
+    "e2": "/images/Cement_e2.png"
+  },
+  "Ceobe": {
+    "default": "/images/Ceobe_default.png",
+    "e2": "/images/Ceobe_e2.png"
+  },
+  "Ceylon": {
+    "default": "/images/Ceylon_default.png",
+    "e2": "/images/Ceylon_e2.png"
+  },
+  "Ch'en the Holungday": {
+    "default": "/images/Ch'en_the_Holungday_default.png",
+    "e2": "/images/Ch'en_the_Holungday_e2.png"
+  },
+  "Ch'en": {
+    "default": "/images/Ch'en_default.png",
+    "e2": "/images/Ch'en_e2.png"
+  },
+  "Chestnut": {
+    "default": "/images/Chestnut_default.png",
+    "e2": "/images/Chestnut_e2.png"
+  },
+  "Chiave": {
+    "default": "/images/Chiave_default.png",
+    "e2": "/images/Chiave_e2.png"
+  },
+  "Chongyue": {
+    "default": "/images/Chongyue_default.png",
+    "e2": "/images/Chongyue_e2.png"
+  },
+  "Click": {
+    "default": "/images/Click_default.png",
+    "e2": "/images/Click_e2.png"
+  },
+  "Cliffheart": {
+    "default": "/images/Cliffheart_default.png",
+    "e2": "/images/Cliffheart_e2.png"
+  },
+  "Coldshot": {
+    "default": "/images/Coldshot_default.png",
+    "e2": "/images/Coldshot_e2.png"
+  },
+  "Conviction": {
+    "default": "/images/Conviction_default.png",
+    "e2": "/images/Conviction_e2.png"
+  },
+  "Corroserum": {
+    "default": "/images/Corroserum_default.png",
+    "e2": "/images/Corroserum_e2.png"
+  },
+  "Courier": {
+    "default": "/images/Courier_default.png",
+    "e2": "/images/Courier_e2.png"
+  },
+  "Croissant": {
+    "default": "/images/Croissant_default.png",
+    "e2": "/images/Croissant_e2.png"
+  },
+  "Cuora": {
+    "default": "/images/Cuora_default.png",
+    "e2": "/images/Cuora_e2.png"
+  },
+  "Cutter": {
+    "default": "/images/Cutter_default.png",
+    "e2": "/images/Cutter_e2.png"
+  },
+  "Czerny": {
+    "default": "/images/Czerny_default.png",
+    "e2": "/images/Czerny_e2.png"
+  },
+  "Dagda": {
+    "default": "/images/Dagda_default.png",
+    "e2": "/images/Dagda_e2.png"
+  },
+  "Deepcolor": {
+    "default": "/images/Deepcolor_default.png",
+    "e2": "/images/Deepcolor_e2.png"
+  },
+  "Dobermann": {
+    "default": "/images/Dobermann_default.png",
+    "e2": "/images/Dobermann_e2.png"
+  },
+  "Dorothy": {
+    "default": "/images/Dorothy_default.png",
+    "e2": "/images/Dorothy_e2.png"
+  },
+  "Dur-nar": {
+    "default": "/images/Dur-nar_default.png",
+    "e2": "/images/Dur-nar_e2.png"
+  },
+  "Durin": {
+    "default": "/images/Durin_default.png"
+  },
+  "Dusk": {
+    "default": "/images/Dusk_default.png",
+    "e2": "/images/Dusk_e2.png"
+  },
+  "Earthspirit": {
+    "default": "/images/Earthspirit_default.png",
+    "e2": "/images/Earthspirit_e2.png"
+  },
+  "Ebenholz": {
+    "default": "/images/Ebenholz_default.png",
+    "e2": "/images/Ebenholz_e2.png"
+  },
+  "Elysium": {
+    "default": "/images/Elysium_default.png",
+    "e2": "/images/Elysium_e2.png"
+  },
+  "Enforcer": {
+    "default": "/images/Enforcer_default.png",
+    "e2": "/images/Enforcer_e2.png"
+  },
+  "Erato": {
+    "default": "/images/Erato_default.png",
+    "e2": "/images/Erato_e2.png"
+  },
+  "Estelle": {
+    "default": "/images/Estelle_default.png",
+    "e2": "/images/Estelle_e2.png"
+  },
+  "Ethan": {
+    "default": "/images/Ethan_default.png",
+    "e2": "/images/Ethan_e2.png"
+  },
+  "Eunectes": {
+    "default": "/images/Eunectes_default.png",
+    "e2": "/images/Eunectes_e2.png"
+  },
+  "Executor the Ex Foedere": {
+    "default": "/images/Executor the Ex Foedere_default.png",
+    "e2": "/images/Executor the Ex Foedere_e2.png"
+  },
+  "Executor": {
+    "default": "/images/Executor_default.png",
+    "e2": "/images/Executor_e2.png"
+  },
+  "Exusiai": {
+    "default": "/images/Exusiai_default.png",
+    "e2": "/images/Exusiai_e2.png"
+  },
+  "Eyjafjalla the Hvít Aska": {
+    "default": "/images/Alter_Eyjafjalla_default.png",
+    "e2": "/images/Alter_Eyjafjalla_e2.png"
+  },
+  "Eyjafjalla": {
+    "default": "/images/Eyjafjalla_default.png",
+    "e2": "/images/Eyjafjalla_e2.png"
+  },
+  "Fang": {
+    "default": "/images/Fang_default.png"
+  },
+  "Fartooth": {
+    "default": "/images/Fartooth_default.png",
+    "e2": "/images/Fartooth_e2.png"
+  },
+  "FEater": {
+    "default": "/images/FEater_default.png",
+    "e2": "/images/FEater_e2.png"
+  },
+  "Fiammetta": {
+    "default": "/images/Fiammetta_default.png",
+    "e2": "/images/Fiammetta_e2.png"
+  },
+  "Firewatch": {
+    "default": "/images/Firewatch_default.png",
+    "e2": "/images/Firewatch_e2.png"
+  },
+  "Firewhistle": {
+    "default": "/images/Firewhistle_default.png",
+    "e2": "/images/Firewhistle_e2.png"
+  },
+  "Flamebringer": {
+    "default": "/images/Flamebringer_default.png",
+    "e2": "/images/Flamebringer_e2.png"
+  },
+  "Flametail": {
+    "default": "/images/Flametail_default.png",
+    "e2": "/images/Flametail_e2.png"
+  },
+  "Flint": {
+    "default": "/images/Flint_default.png",
+    "e2": "/images/Flint_e2.png"
+  },
+  "Folinic": {
+    "default": "/images/Folinic_default.png",
+    "e2": "/images/Folinic_e2.png"
+  },
+  "Franka": {
+    "default": "/images/Franka_default.png",
+    "e2": "/images/Franka_e2.png"
+  },
+  "Friston-3": {
+    "default": "/images/Friston-3_default.png"
+  },
+  "Frost": {
+    "default": "/images/Frost_default.png",
+    "e2": "/images/Frost_e2.png"
+  },
+  "Frostleaf": {
+    "default": "/images/Frostleaf_default.png",
+    "e2": "/images/Frostleaf_e2.png"
+  },
+  "Gavial the Invincible": {
+    "default": "/images/Gavial_the_Invincible_default.png",
+    "e2": "/images/Gavial_the_Invincible_e2.png"
+  },
+  "Gavial": {
+    "default": "/images/Gavial_default.png",
+    "e2": "/images/Gavial_e2.png"
+  },
+  "Gitano": {
+    "default": "/images/Gitano_default.png",
+    "e2": "/images/Gitano_e2.png"
+  },
+  "Gladiia": {
+    "default": "/images/Gladiia_default.png",
+    "e2": "/images/Gladiia_e2.png"
+  },
+  "Glaucus": {
+    "default": "/images/Glaucus_default.png",
+    "e2": "/images/Glaucus_e2.png"
+  },
+  "Gnosis": {
+    "default": "/images/Gnosis_default.png",
+    "e2": "/images/Gnosis_e2.png"
+  },
+  "Goldenglow": {
+    "default": "/images/Goldenglow_default.png",
+    "e2": "/images/Goldenglow_e2.png"
+  },
+  "Grani": {
+    "default": "/images/Grani_default.png",
+    "e2": "/images/Grani_e2.png"
+  },
+  "Gravel": {
+    "default": "/images/Gravel_default.png",
+    "e2": "/images/Gravel_e2.png"
+  },
+  "GreyThroat": {
+    "default": "/images/GreyThroat_default.png",
+    "e2": "/images/GreyThroat_e2.png"
+  },
+  "Greyy the Lightningbearer": {
+    "default": "/images/Greyy_the_Lightningbearer_default.png",
+    "e2": "/images/Greyy_the_Lightningbearer_e2.png"
+  },
+  "Greyy": {
+    "default": "/images/Greyy_default.png",
+    "e2": "/images/Greyy_e2.png"
+  },
+  "Gummy": {
+    "default": "/images/Gummy_default.png",
+    "e2": "/images/Gummy_e2.png"
+  },
+  "Harmonie": {
+    "default": "/images/Harmonie_default.png",
+    "e2": "/images/Harmonie_e2.png"
+  },
+  "Haze": {
+    "default": "/images/Haze_default.png",
+    "e2": "/images/Haze_e2.png"
+  },
+  "Heavyrain": {
+    "default": "/images/Heavyrain_default.png",
+    "e2": "/images/Heavyrain_e2.png"
+  },
+  "Heidi": {
+    "default": "/images/Heidi_default.png",
+    "e2": "/images/Heidi_e2.png"
+  },
+  "Hellagur": {
+    "default": "/images/Hellagur_default.png",
+    "e2": "/images/Hellagur_e2.png"
+  },
+  "Hibiscus the Purifier": {
+    "default": "/images/Hibiscus_the_Purifier_default.png",
+    "e2": "/images/Hibiscus_the_Purifier_e2.png"
+  },
+  "Hibiscus": {
+    "default": "/images/Hibiscus_default.png"
+  },
+  "Highmore": {
+    "default": "/images/Highmore_default.png",
+    "e2": "/images/Highmore_e2.png"
+  },
+  "Ho'olheyak": {
+    "default": "/images/Ho'olheyak_default.png",
+    "e2": "/images/Ho'olheyak_e2.png"
+  },
+  "Honeyberry": {
+    "default": "/images/Honeyberry_default.png",
+    "e2": "/images/Honeyberry_e2.png"
+  },
+  "Horn": {
+    "default": "/images/Horn_default.png",
+    "e2": "/images/Horn_e2.png"
+  },
+  "Hoshiguma": {
+    "default": "/images/Hoshiguma_default.png",
+    "e2": "/images/Hoshiguma_e2.png"
+  },
+  "Humus": {
+    "default": "/images/Humus_default.png",
+    "e2": "/images/Humus_e2.png"
+  },
+  "Hung": {
+    "default": "/images/Hung_default.png",
+    "e2": "/images/Hung_e2.png"
+  },
+  "Ifrit": {
+    "default": "/images/Ifrit_default.png",
+    "e2": "/images/Ifrit_e2.png"
+  },
+  "Indigo": {
+    "default": "/images/Indigo_default.png",
+    "e2": "/images/Indigo_e2.png"
+  },
+  "Indra": {
+    "default": "/images/Indra_default.png",
+    "e2": "/images/Indra_e2.png"
+  },
+  "Insider": {
+    "default": "/images/Insider_default.png",
+    "e2": "/images/Insider_e2.png"
+  },
+  "Irene": {
+    "default": "/images/Irene_default.png",
+    "e2": "/images/Irene_e2.png"
+  },
+  "Iris": {
+    "default": "/images/Iris_default.png",
+    "e2": "/images/Iris_e2.png"
+  },
+  "Istina": {
+    "default": "/images/Istina_default.png",
+    "e2": "/images/Istina_e2.png"
+  },
+  "Jackie": {
+    "default": "/images/Jackie_default.png",
+    "e2": "/images/Jackie_e2.png"
+  },
+  "Jaye": {
+    "default": "/images/Jaye_default.png",
+    "e2": "/images/Jaye_e2.png"
+  },
+  "Jessica the Liberated": {
+    "default": "/images/Jessica_the_Liberated_default.png",
+    "e2": "/images/Jessica_the_Liberated_e2.png"
+  },
+  "Jessica": {
+    "default": "/images/Jessica_default.png",
+    "e2": "/images/Jessica_e2.png"
+  },
+  "Jieyun": {
+    "default": "/images/Jieyun_default.png",
+    "e2": "/images/Jieyun_e2.png"
+  },
+  "Justice Knight": {
+    "default": "/images/Justice_Knight_default.png",
+    "e2": "/images/Justice_Knight_e2.png"
+  },
+  "Kafka": {
+    "default": "/images/Kafka_default.png",
+    "e2": "/images/Kafka_e2.png"
+  },
+  "Kazemaru": {
+    "default": "/images/Kazemaru_default.png",
+    "e2": "/images/Kazemaru_e2.png"
+  },
+  "Kirara": {
+    "default": "/images/Kirara_default.png",
+    "e2": "/images/Kirara_e2.png"
+  },
+  "Kirin R Yato": {
+    "default": "/images/Kirin_R_Yato_default.png",
+    "e2": "/images/Kirin_R_Yato_e2.png"
+  },
+  "Kjera": {
+    "default": "/images/Kjera_default.png",
+    "e2": "/images/Kjera_e2.png"
+  },
+  "Kroos the Keen Glint": {
+    "default": "/images/Kroos_the_Keen_Glint_default.png",
+    "e2": "/images/Kroos_the_Keen_Glint_e2.png"
+  },
+  "Kroos": {
+    "default": "/images/Kroos_default.png",
+    "e2": "/images/Kroos_e2.png"
+  },
+  "La Pluma": {
+    "default": "/images/La_Pluma_default.png",
+    "e2": "/images/La_Pluma_e2.png"
+  },
+  "Lancet-2": {
+    "default": "/images/Lancet-2_default.png",
+    "e2": "/images/Lancet-2_e2.png"
+  },
+  "Lappland": {
+    "default": "/images/Lappland_default.png",
+    "e2": "/images/Lappland_e2.png"
+  },
+  "Lava the Purgatory": {
+    "default": "/images/Lava_the_Purgatory_default.png",
+    "e2": "/images/Lava_the_Purgatory_e2.png"
+  },
+  "Lava": {
+    "default": "/images/Lava_default.png",
+    "e2": "/images/Lava_e2.png"
+  },
+  "Lee": {
+    "default": "/images/Lee_default.png",
+    "e2": "/images/Lee_e2.png"
+  },
+  "Leizi": {
+    "default": "/images/Leizi_default.png",
+    "e2": "/images/Leizi_e2.png"
+  },
+  "Leonhardt": {
+    "default": "/images/Leonhardt_default.png",
+    "e2": "/images/Leonhardt_e2.png"
+  },
+  "Lin": {
+    "default": "/images/Lin_default.png",
+    "e2": "/images/Lin_e2.png"
+  },
+  "Ling": {
+    "default": "/images/Ling_default.png",
+    "e2": "/images/Ling_e2.png"
+  },
+  "Liskarm": {
+    "default": "/images/Liskarm_default.png",
+    "e2": "/images/Liskarm_e2.png"
+  },
+  "Lumen": {
+    "default": "/images/Lumen_default.png",
+    "e2": "/images/Lumen_e2.png"
+  },
+  "Lunacub": {
+    "default": "/images/Lunacub_default.png",
+    "e2": "/images/Lunacub_e2.png"
+  },
+  "Luo Xiaohei": {
+    "default": "/images/Luo_Xiaohei_default.png",
+    "e2": "/images/Luo_Xiaohei_e2.png"
+  },
+  "Magallan": {
+    "default": "/images/Magallan_default.png",
+    "e2": "/images/Magallan_e2.png"
+  },
+  "Manticore": {
+    "default": "/images/Manticore_default.png",
+    "e2": "/images/Manticore_e2.png"
+  },
+  "Matoimaru": {
+    "default": "/images/Matoimaru_default.png",
+    "e2": "/images/Matoimaru_e2.png"
+  },
+  "Matterhorn": {
+    "default": "/images/Matterhorn_default.png",
+    "e2": "/images/Matterhorn_e2.png"
+  },
+  "May": {
+    "default": "/images/May_default.png",
+    "e2": "/images/May_e2.png"
+  },
+  "Mayer": {
+    "default": "/images/Mayer_default.png",
+    "e2": "/images/Mayer_e2.png"
+  },
+  "Melanite": {
+    "default": "/images/Melanite_default.png",
+    "e2": "/images/Melanite_e2.png"
+  },
+  "Melantha": {
+    "default": "/images/Melantha_default.png"
+  },
+  "Meteor": {
+    "default": "/images/Meteor_default.png",
+    "e2": "/images/Meteor_e2.png"
+  },
+  "Meteorite": {
+    "default": "/images/Meteorite_default.png",
+    "e2": "/images/Meteorite_e2.png"
+  },
+  "Midnight": {
+    "default": "/images/Midnight_default.png",
+    "e2": "/images/Midnight_e2.png"
+  },
+  "Minimalist": {
+    "default": "/images/Minimalist_default.png",
+    "e2": "/images/Minimalist_e2.png"
+  },
+  "Mint": {
+    "default": "/images/Mint_default.png",
+    "e2": "/images/Mint_e2.png"
+  },
+  "Mizuki": {
+    "default": "/images/Mizuki_default.png",
+    "e2": "/images/Mizuki_e2.png"
+  },
+  "Morgan": {
+    "default": "/images/Morgan_default.png",
+    "e2": "/images/Morgan_e2.png"
+  },
+  "Mostima": {
+    "default": "/images/Mostima_default.png",
+    "e2": "/images/Mostima_e2.png"
+  },
+  "Mountain": {
+    "default": "/images/Mountain_default.png",
+    "e2": "/images/Mountain_e2.png"
+  },
+  "Mousse": {
+    "default": "/images/Mousse_default.png",
+    "e2": "/images/Mousse_e2.png"
+  },
+  "Mr. Nothing": {
+    "default": "/images/Mr._Nothing_default.png",
+    "e2": "/images/Mr._Nothing_e2.png"
+  },
+  "Mudrock": {
+    "default": "/images/Mudrock_default.png",
+    "e2": "/images/Mudrock_e2.png"
+  },
+  "Muelsyse": {
+    "default": "/images/Muelsyse_default.png",
+    "e2": "/images/Muelsyse_e2.png"
+  },
+  "Mulberry": {
+    "default": "/images/Mulberry_default.png",
+    "e2": "/images/Mulberry_e2.png"
+  },
+  "Myrrh": {
+    "default": "/images/Myrrh_default.png",
+    "e2": "/images/Myrrh_e2.png"
+  },
+  "Myrtle": {
+    "default": "/images/Myrtle_default.png",
+    "e2": "/images/Myrtle_e2.png"
+  },
+  "Młynar": {
+    "default": "/images/Młynar_default.png",
+    "e2": "/images/Młynar_e2.png"
+  },
+  "Nearl the Radiant Knight": {
+    "default": "/images/Nearl_the_Radiant_Knight_default.png",
+    "e2": "/images/Nearl_the_Radiant_Knight_e2.png"
+  },
+  "Nearl": {
+    "default": "/images/Nearl_default.png",
+    "e2": "/images/Nearl_e2.png"
+  },
+  "Nian": {
+    "default": "/images/Nian_default.png",
+    "e2": "/images/Nian_e2.png"
+  },
+  "Nightingale": {
+    "default": "/images/Nightingale_default.png",
+    "e2": "/images/Nightingale_e2.png"
+  },
+  "Nightmare": {
+    "default": "/images/Nightmare_default.png",
+    "e2": "/images/Nightmare_e2.png"
+  },
+  "Nine-Colored Deer": {
+    "default": "/images/Nine-Colored_Deer_default.png",
+    "e2": "/images/Nine-Colored_Deer_e2.png"
+  },
+  "Noir Corne": {
+    "default": "/images/Noir_Corne_default.png"
+  },
+  "Orchid": {
+    "default": "/images/Orchid_default.png",
+    "e2": "/images/Orchid_e2.png"
+  },
+  "Pallas": {
+    "default": "/images/Pallas_default.png",
+    "e2": "/images/Pallas_e2.png"
+  },
+  "Paprika": {
+    "default": "/images/Paprika_default.png",
+    "e2": "/images/Paprika_e2.png"
+  },
+  "Passenger": {
+    "default": "/images/Passenger_default.png",
+    "e2": "/images/Passenger_e2.png"
+  },
+  "Penance": {
+    "default": "/images/Penance_default.png",
+    "e2": "/images/Penance_e2.png"
+  },
+  "Perfumer": {
+    "default": "/images/Perfumer_default.png",
+    "e2": "/images/Perfumer_e2.png"
+  },
+  "Phantom": {
+    "default": "/images/Phantom_default.png",
+    "e2": "/images/Phantom_e2.png"
+  },
+  "Pinecone": {
+    "default": "/images/Pinecone_default.png",
+    "e2": "/images/Pinecone_e2.png"
+  },
+  "Platinum": {
+    "default": "/images/Platinum_default.png",
+    "e2": "/images/Platinum_e2.png"
+  },
+  "Plume": {
+    "default": "/images/Plume_default.png",
+    "e2": "/images/Plume_e2.png"
+  },
+  "Podenco": {
+    "default": "/images/Podenco_default.png",
+    "e2": "/images/Podenco_e2.png"
+  },
+  "Poncirus": {
+    "default": "/images/Poncirus_default.png",
+    "e2": "/images/Poncirus_e2.png"
+  },
+  "Popukar": {
+    "default": "/images/Popukar_default.png"
+  },
+  "Pozëmka": {
+    "default": "/images/Pozëmka_default.png",
+    "e2": "/images/Pozëmka_e2.png"
+  },
+  "Pramanix": {
+    "default": "/images/Pramanix_default.png",
+    "e2": "/images/Pramanix_e2.png"
+  },
+  "Projekt Red": {
+    "default": "/images/Projekt_Red_default.png",
+    "e2": "/images/Projekt_Red_e2.png"
+  },
+  "Provence": {
+    "default": "/images/Provence_default.png",
+    "e2": "/images/Provence_e2.png"
+  },
+  "Proviso": {
+    "default": "/images/Proviso_default.png",
+    "e2": "/images/Proviso_e2.png"
+  },
+  "Ptilopsis": {
+    "default": "/images/Ptilopsis_default.png",
+    "e2": "/images/Ptilopsis_e2.png"
+  },
+  "Pudding": {
+    "default": "/images/Pudding_default.png",
+    "e2": "/images/Pudding_e2.png"
+  },
+  "Purestream": {
+    "default": "/images/Purestream_default.png",
+    "e2": "/images/Purestream_e2.png"
+  },
+  "Puzzle": {
+    "default": "/images/Puzzle_default.png",
+    "e2": "/images/Puzzle_e2.png"
+  },
+  "Qanipalaat": {
+    "default": "/images/Qanipalaat_default.png",
+    "e2": "/images/Qanipalaat_e2.png"
+  },
+  "Qiubai": {
+    "default": "/images/Qiubai_default.png",
+    "e2": "/images/Qiubai_e2.png"
+  },
+  "Quartz": {
+    "default": "/images/Quartz_default.png",
+    "e2": "/images/Quartz_e2.png"
+  },
+  "Quercus": {
+    "default": "/images/Quercus_default.png",
+    "e2": "/images/Quercus_e2.png"
+  },
+  "Rangers": {
+    "default": "/images/Rangers_default.png",
+    "e2": "/images/Rangers_e2.png"
+  },
+  "Rathalos S Noir Corne": {
+    "default": "/images/Rathalos_S_Noir_Corne_default.png",
+    "e2": "/images/Rathalos_S_Noir_Corne_e2.png"
+  },
+  "Reed the Flame Shadow": {
+    "default": "/images/Reed_the_Flame_Shadow_default.png",
+    "e2": "/images/Reed_the_Flame_Shadow_e2.png"
+  },
+  "Reed": {
+    "default": "/images/Reed_default.png",
+    "e2": "/images/Reed_e2.png"
+  },
+  "Roberta": {
+    "default": "/images/Roberta_default.png",
+    "e2": "/images/Roberta_e2.png"
+  },
+  "Robin": {
+    "default": "/images/Robin_default.png",
+    "e2": "/images/Robin_e2.png"
+  },
+  "Rockrock": {
+    "default": "/images/Rockrock_default.png",
+    "e2": "/images/Rockrock_e2.png"
+  },
+  "Rope": {
+    "default": "/images/Rope_default.png",
+    "e2": "/images/Rope_e2.png"
+  },
+  "Rosa": {
+    "default": "/images/Rosa_default.png",
+    "e2": "/images/Rosa_e2.png"
+  },
+  "Rosmontis": {
+    "default": "/images/Rosmontis_default.png",
+    "e2": "/images/Rosmontis_e2.png"
+  },
+  "Saga": {
+    "default": "/images/Saga_default.png",
+    "e2": "/images/Saga_e2.png"
+  },
+  "Saileach": {
+    "default": "/images/Saileach_default.png",
+    "e2": "/images/Saileach_e2.png"
+  },
+  "Santalla": {
+    "default": "/images/Santalla_default.png",
+    "e2": "/images/Santalla_e2.png"
+  },
+  "Saria": {
+    "default": "/images/Saria_default.png",
+    "e2": "/images/Saria_e2.png"
+  },
+  "Savage": {
+    "default": "/images/Savage_default.png",
+    "e2": "/images/Savage_e2.png"
+  },
+  "Scavenger": {
+    "default": "/images/Scavenger_default.png",
+    "e2": "/images/Scavenger_e2.png"
+  },
+  "Scene": {
+    "default": "/images/Scene_default.png",
+    "e2": "/images/Scene_e2.png"
+  },
+  "Schwarz": {
+    "default": "/images/Schwarz_default.png",
+    "e2": "/images/Schwarz_e2.png"
+  },
+  "Sesa": {
+    "default": "/images/Sesa_default.png",
+    "e2": "/images/Sesa_e2.png"
+  },
+  "Shalem": {
+    "default": "/images/Shalem_default.png",
+    "e2": "/images/Shalem_e2.png"
+  },
+  "Shamare": {
+    "default": "/images/Shamare_default.png",
+    "e2": "/images/Shamare_e2.png"
+  },
+  "Shaw": {
+    "default": "/images/Shaw_default.png",
+    "e2": "/images/Shaw_e2.png"
+  },
+  "Shining": {
+    "default": "/images/Shining_default.png",
+    "e2": "/images/Shining_e2.png"
+  },
+  "Shirayuki": {
+    "default": "/images/Shirayuki_default.png",
+    "e2": "/images/Shirayuki_e2.png"
+  },
+  "Sideroca": {
+    "default": "/images/Sideroca_default.png",
+    "e2": "/images/Sideroca_e2.png"
+  },
+  "Siege": {
+    "default": "/images/Siege_default.png",
+    "e2": "/images/Siege_e2.png"
+  },
+  "Silence the Paradigmatic": {
+    "default": "/images/Silence_the_Paradigmatic_default.png",
+    "e2": "/images/Silence_the_Paradigmatic_e2.png"
+  },
+  "Silence": {
+    "default": "/images/Silence_default.png",
+    "e2": "/images/Silence_e2.png"
+  },
+  "SilverAsh": {
+    "default": "/images/SilverAsh_default.png",
+    "e2": "/images/SilverAsh_e2.png"
+  },
+  "Skadi the Corrupting Heart": {
+    "default": "/images/Skadi_the_Corrupting_Heart_default.png",
+    "e2": "/images/Skadi_the_Corrupting_Heart_e2.png"
+  },
+  "Skadi": {
+    "default": "/images/Skadi_default.png",
+    "e2": "/images/Skadi_e2.png"
+  },
+  "Skyfire": {
+    "default": "/images/Skyfire_default.png",
+    "e2": "/images/Skyfire_e2.png"
+  },
+  "Snowsant": {
+    "default": "/images/Snowsant_default.png",
+    "e2": "/images/Snowsant_e2.png"
+  },
+  "Sora": {
+    "default": "/images/Sora_default.png",
+    "e2": "/images/Sora_e2.png"
+  },
+  "Specter the Unchained": {
+    "default": "/images/Specter_the_Unchained_default.png",
+    "e2": "/images/Specter_the_Unchained_e2.png"
+  },
+  "Specter": {
+    "default": "/images/Specter_default.png",
+    "e2": "/images/Specter_e2.png"
+  },
+  "Spot": {
+    "default": "/images/Spot_default.png"
+  },
+  "Spuria": {
+    "default": "/images/Spuria_default.png",
+    "e2": "/images/Spuria_e2.png"
+  },
+  "Stainless": {
+    "default": "/images/Stainless_default.png",
+    "e2": "/images/Stainless_e2.png"
+  },
+  "Steward": {
+    "default": "/images/Steward_default.png",
+    "e2": "/images/Steward_e2.png"
+  },
+  "Surtr": {
+    "default": "/images/Surtr_default.png",
+    "e2": "/images/Surtr_e2.png"
+  },
+  "Sussurro": {
+    "default": "/images/Sussurro_default.png",
+    "e2": "/images/Sussurro_e2.png"
+  },
+  "Suzuran": {
+    "default": "/images/Suzuran_default.png",
+    "e2": "/images/Suzuran_e2.png"
+  },
+  "Swire the Elegant Wit": {
+    "default": "/images/Swire_the_Elegant_Wit_default.png",
+    "e2": "/images/Swire_the_Elegant_Wit_e2.png"
+  },
+  "Swire": {
+    "default": "/images/Swire_default.png",
+    "e2": "/images/Swire_e2.png"
+  },
+  "Tachanka": {
+    "default": "/images/Tachanka_default.png",
+    "e2": "/images/Tachanka_e2.png"
+  },
+  "Tequila": {
+    "default": "/images/Tequila_default.png",
+    "e2": "/images/Tequila_e2.png"
+  },
+  "Terra Research Commission": {
+    "default": "/images/Terra_Research_Commission_default.png",
+    "e2": "/images/Terra_Research_Commission_e2.png"
+  },
+  "Texas the Omertosa": {
+    "default": "/images/Texas_the_Omertosa_default.png",
+    "e2": "/images/Texas_the_Omertosa_e2.png"
+  },
+  "Texas": {
+    "default": "/images/Texas_default.png",
+    "e2": "/images/Texas_e2.png"
+  },
+  "Thorns": {
+    "default": "/images/Thorns_default.png",
+    "e2": "/images/Thorns_e2.png"
+  },
+  "THRM-EX": {
+    "default": "/images/THRM-EX_default.png",
+    "e2": "/images/THRM-EX_e2.png"
+  },
+  "Toddifons": {
+    "default": "/images/Toddifons_default.png",
+    "e2": "/images/Toddifons_e2.png"
+  },
+  "Tomimi": {
+    "default": "/images/Tomimi_default.png",
+    "e2": "/images/Tomimi_e2.png"
+  },
+  "Totter": {
+    "default": "/images/Totter_default.png",
+    "e2": "/images/Totter_e2.png"
+  },
+  "Tsukinogi": {
+    "default": "/images/Tsukinogi_default.png",
+    "e2": "/images/Tsukinogi_e2.png"
+  },
+  "Tuye": {
+    "default": "/images/Tuye_default.png",
+    "e2": "/images/Tuye_e2.png"
+  },
+  "Typhon": {
+    "default": "/images/Typhon_default.png",
+    "e2": "/images/Typhon_e2.png"
+  },
+  "U-Official": {
+    "default": "/images/U-Official_default.png",
+    "e2": "/images/U-Official_e2.png"
+  },
+  "Utage": {
+    "default": "/images/Utage_default.png",
+    "e2": "/images/Utage_e2.png"
+  },
+  "Valarqvin": {
+    "default": "/images/Valarqvin_default.png",
+    "e2": "/images/Valarqvin_e2.png"
+  },
+  "Vanilla": {
+    "default": "/images/Vanilla_default.png"
+  },
+  "Vermeil": {
+    "default": "/images/Vermeil_default.png",
+    "e2": "/images/Vermeil_e2.png"
+  },
+  "Vigil": {
+    "default": "/images/Vigil_default.png",
+    "e2": "/images/Vigil_e2.png"
+  },
+  "Vigna": {
+    "default": "/images/Vigna_default.png",
+    "e2": "/images/Vigna_e2.png"
+  },
+  "Vulcan": {
+    "default": "/images/Vulcan_default.png",
+    "e2": "/images/Vulcan_e2.png"
+  },
+  "W": {
+    "default": "/images/W_default.png",
+    "e2": "/images/W_e2.png"
+  },
+  "Waai Fu": {
+    "default": "/images/Waai_Fu_default.png",
+    "e2": "/images/Waai_Fu_e2.png"
+  },
+  "Warfarin": {
+    "default": "/images/Warfarin_default.png",
+    "e2": "/images/Warfarin_e2.png"
+  },
+  "Weedy": {
+    "default": "/images/Weedy_default.png",
+    "e2": "/images/Weedy_e2.png"
+  },
+  "Whislash": {
+    "default": "/images/Whislash_default.png",
+    "e2": "/images/Whislash_e2.png"
+  },
+  "Whisperain": {
+    "default": "/images/Whisperain_default.png",
+    "e2": "/images/Whisperain_e2.png"
+  },
+  "Wild Mane": {
+    "default": "/images/Wild_Mane_default.png",
+    "e2": "/images/Wild_Mane_e2.png"
+  },
+  "Wind Chimes": {
+    "default": "/images/Wind_Chimes_default.png",
+    "e2": "/images/Wind_Chimes_e2.png"
+  },
+  "Windflit": {
+    "default": "/images/Windflit_default.png",
+    "e2": "/images/Windflit_e2.png"
+  },
+  "Yato": {
+    "default": "/images/Yato_default.png"
+  },
+  "Zima": {
+    "default": "/images/Zima_default.png",
+    "e2": "/images/Zima_e2.png"
+  }
+}
